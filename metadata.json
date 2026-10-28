@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Atelier - Luxury Custom Polaroid Prints",
+  "description": "Boutique photo studio crafting museum-grade custom Polaroid prints on authentic archival film. Upload, customize with handwritten captions & order with secure Razorpay checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
